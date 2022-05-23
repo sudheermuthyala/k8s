@@ -7,4 +7,4 @@
 - VPC
 
 ## EKS Control Plane
-- EKs Control Plain Contains Kubernets Master Components like `**etcd**`
+- EKs Control Plain Contains Kubernets Master Components like **`etcd`**
